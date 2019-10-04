@@ -1,0 +1,6 @@
+---
+ios:
+  platform: ios
+  username: admin
+  password: admin123
+  port: 22
